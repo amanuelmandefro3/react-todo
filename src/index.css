@@ -59,12 +59,14 @@ body {
 .task-check {
   display: flex;
   align-items: center;
+  
 }
 
 .task-check input {
   margin-right: 8px;
   width: 22px;
   height: 22px;
+  cursor: pointer;
 }
 
 .task-check span {
@@ -75,6 +77,7 @@ body {
 .actions {
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 .actions .pen {
