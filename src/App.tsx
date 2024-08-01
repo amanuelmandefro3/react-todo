@@ -10,7 +10,7 @@ type Type = {
 
 const App: React.FC = () => {
   const [showModal, setShowModal] = useState<boolean>(false);
-  const [tasks, setTasks] = useState<Type[]>([]);
+  const [tasks, setTasks] = useState<Type[]>(null);
   const [currentTask, setCurrentTask] = useState<string>('');
   const [editIndex, setEditIndex] = useState<number | null>(null);
 

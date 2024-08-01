@@ -3,6 +3,8 @@
 This project is a simple Todo application built with React. The app allows users to add, edit, and delete tasks, as well as mark tasks as completed.
 
 ![Screenshot of Todo App](./src/assets/Screenshot%20-3.png)
+![Screenshot of Todo App](./src/assets/Screenshot%20-2.png)
+
 
 ## Features
 
